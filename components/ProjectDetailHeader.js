@@ -5,7 +5,7 @@ export default function ProjectDetailHeader() {
   return (
     <header className={styles.header}>
       <nav className={styles.nav}>
-        <span className={styles.logo}>LOGO</span>
+        <span className={styles.logo}></span>
         <Link href="/" className={styles.backLink}>
           ← Back to Home
         </Link>
