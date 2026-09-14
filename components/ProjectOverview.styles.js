@@ -1,0 +1,16 @@
+export const styles = {
+  section: "grid grid-cols-1 gap-6 px-6 pt-10 sm:grid-cols-3",
+  overviewCol: "sm:col-span-2",
+  heading: "text-lg font-semibold text-gray-800",
+  paragraph: "mt-3 whitespace-pre-line text-sm leading-relaxed text-gray-500",
+  steamLink: "font-medium text-blue-600 underline underline-offset-2 hover:text-blue-700",
+  infoCard: "rounded-md border border-gray-200 p-5",
+  infoHeading: "text-sm font-semibold text-gray-800",
+  tagList: "mt-3 flex flex-wrap gap-2",
+  tag: "rounded-full bg-blue-50 px-3 py-1 text-xs font-medium text-blue-600",
+  metaList: "mt-5 space-y-2 border-t border-gray-200 pt-4",
+  metaRow: "flex items-center justify-between text-xs",
+  metaLabel: "text-gray-500",
+  metaValue: "font-medium text-gray-700",
+  statusBadge: "rounded-full bg-emerald-100 px-2 py-0.5 font-medium text-emerald-700",
+};
