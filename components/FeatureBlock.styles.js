@@ -6,6 +6,6 @@ export const styles = {
   imageColReversed: "sm:order-1",
   heading: "text-base font-semibold text-gray-800",
   paragraph: "mt-3 text-sm leading-relaxed text-gray-500",
-  imageWrapper: "relative mx-auto max-w-[240px] overflow-hidden rounded-lg",
+  imageWrapper: "relative mx-auto overflow-hidden rounded-lg",
   image: "w-full object-cover",
 };

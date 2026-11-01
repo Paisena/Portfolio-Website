@@ -138,9 +138,13 @@ export const projects = {
       "Also has a 8-bit function!"
     ],
     image: "/SoundParams.png",
-    imageWidth: 187,
-    imageHeight: 1138,
+    imageWidth: 196,
+    imageHeight: 391,
+    imageMaxWidth: 240,
     imageOnRight: false,
+
+
+
   },
 
     ],
